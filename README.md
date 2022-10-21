@@ -3,7 +3,7 @@
 I graduated from mechanical engineering but switched careers to become a software engineer. I graduated from [Alterra Academy](https://academy.alterra.id/) Immersive Bootcamp Frontend Engineering. Currently, I am interested in a career as a <strong> Front End Developer </strong>.
 
 <div align="center">
-  <img src="img/giphy.gif" width="200em"/>
+  <img src="img/giphy.gif" width="430px"/>
 
   <div>
     <a href="https://www.linkedin.com/in/argianardiprasetya/">
